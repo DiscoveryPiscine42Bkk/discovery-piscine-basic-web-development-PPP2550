@@ -1,1 +1,4 @@
-
+ls -1 | paste -sd, -
+cd ~/discovery_piscine/cell00/ex02
+echo "ls -1 | paste -sd, -" > midLS
+sh midLS

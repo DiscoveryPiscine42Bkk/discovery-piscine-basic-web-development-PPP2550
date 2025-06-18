@@ -1,1 +1,5 @@
-Z
+Z# Navigate into the ex01 directory
+cd ~/discovery_piscine/cell00/ex01
+
+# Create the file 'z' with the desired contents
+echo "Z" > z
