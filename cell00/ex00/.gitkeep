@@ -1,1 +1,10 @@
+# Step 1: Create the root folder and move into it
+mkdir ~/discovery_piscine
+cd ~/discovery_piscine
 
+# Step 2: Create the cell00 folder and move into it
+mkdir cell00
+cd cell00
+
+# Step 3: Create the ex00 folder (empty)
+mkdir ex00
